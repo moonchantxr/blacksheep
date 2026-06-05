@@ -316,6 +316,10 @@
     text-align: justify;
 }
 
+.bs4-a strong {
+    color: var(--color-two);
+}
+
 
 /**** TABLA DE MIEMBROS Y BUSQUEDA ************/
 
