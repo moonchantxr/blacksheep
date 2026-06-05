@@ -281,13 +281,6 @@
     justify-content: space-between;
 }
 
-.bs-rol-cont {
-    border-top: 1px solid #c3c3c3;
-    background: #ededed;
-    padding: 30px;
-    text-align: justify;
-}
-
 .bs-rol-block i {
     color: var(--group);
     padding-right: 5px;
@@ -303,7 +296,7 @@
     border-color: #2c2c2c;
 }
 
-.dark .bs-rol-cont {
+.dark  {
     background: #0e0e0e;
     border-color: #2c2c2c;
 }
@@ -318,7 +311,7 @@
 
 .bs-rol-cont {
     border-top: 1px solid #c3c3c3;
-    background: #d5d5d5;
+    background: #ededed;
     padding: 40px 65px;
     text-align: justify;
 }
