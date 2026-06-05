@@ -775,6 +775,10 @@
     border: 7px solid #cfcfcf;
 }
 
+.dark .bs-rol-block img {
+    border-color: #000;
+}
+
 .dark .bs9m-inf span {
     color: #cccccc;
 }
