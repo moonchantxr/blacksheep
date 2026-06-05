@@ -1,12 +1,12 @@
 .black-sheep {
     width: 750px;
     margin: 0px auto;
-    border: 1px solid #9b9b9b;
-    background: #f6f6f6;
+    border: 1px solid #c3c3c3;
+    background: #e9e9e9;
 }
 
 .bs-1 {
-    border-bottom: 1px solid #9b9b9b;
+    border-bottom: 1px solid #c3c3c3;
     display: flex;
     justify-content: space-between;
     padding: 5px 20px;
@@ -74,7 +74,7 @@
 }
 
 .bs3-pic {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     margin: 0px 5px;
 }
 
@@ -101,7 +101,7 @@
 }
 
 .bs4-a {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     width: 450px;
     padding: 20px;
     text-align: justify;
@@ -131,7 +131,7 @@
 }
 
 .bs4-1 {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     padding: 15px;
     font-size: 10px;
     font-family: 'Montserrat', sans-serif;
@@ -139,7 +139,7 @@
 }
 
 .bs2-b {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     margin-top: 5px;
     text-align: center;
     padding: 10px;
@@ -163,7 +163,7 @@
 }
 
 .bs-5 {
-    border-top: 1px solid #9b9b9b;
+    border-top: 1px solid #c3c3c3;
     margin-bottom: -20px;
     padding: 5px 20px;
     display: flex;
@@ -180,7 +180,7 @@
 
 .bs-6 {
     margin: 0px 23px;
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     height: 150px;
     overflow: auto;
     overflow-x: scroll;
@@ -240,8 +240,8 @@
 .bs-rol {
     width: 520px;
     margin: 0px auto;
-    background: #f6f6f6;
-    border: 1px solid #9b9b9b;
+    background: #e9e9e9;
+    border: 1px solid #c3c3c3;
 }
 
 .bs-rol .bs-2 {
@@ -268,7 +268,7 @@
 }
 
 .bs-rol-block {
-    border-top: 1px solid #9b9b9b;
+    border-top: 1px solid #c3c3c3;
     margin-top: -20px;
     padding: 20px 30px;
     margin-bottom: -20px;
@@ -279,8 +279,8 @@
 }
 
 .bs-rol-cont {
-    border-top: 1px solid #9b9b9b;
-    background: #f8f8f8;
+    border-top: 1px solid #c3c3c3;
+    background: #d5d5d5;
     padding: 30px;
     text-align: justify;
 }
@@ -314,8 +314,8 @@
 }
 
 .bs-rol-cont {
-    border-top: 1px solid #9b9b9b;
-    background: #f8f8f8;
+    border-top: 1px solid #c3c3c3;
+    background: #d5d5d5;
     padding: 40px 65px;
     text-align: justify;
 }
@@ -328,7 +328,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid #9b9b9b;
+    border-bottom: 1px solid #c3c3c3;
 }
 
 .bs7-a {
@@ -355,7 +355,7 @@
     display: flex;
     align-items: center;
     margin-right: 20px;
-    border-left: 1px solid #9b9b9b;
+    border-left: 1px solid #c3c3c3;
     padding-left: 15px;
     margin-bottom: 15px;
 }
@@ -393,7 +393,7 @@
 }
 
 .bs-sep {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -409,7 +409,7 @@
 }
 
 .bs-8 {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     margin-bottom: 5px;
     margin-top: -15px;
     display: flex;
@@ -419,7 +419,7 @@
 .bs8-a {
     width: 170px;
     height: 140px;
-    background: #f8f8f8;
+    background: #d5d5d5;
     padding-left: 12px;
     padding-top: 60px;
     padding-right: 15px;
@@ -448,7 +448,7 @@
 }
 
 .bs8-b {
-    background: #f8f8f8;
+    background: #d5d5d5;
     width: 176px;
     text-align: right;
     padding: 27px 0px;
@@ -468,10 +468,10 @@
 }
 
 .bs9-m {
-    background: #f9f9f9;
+    background: #e7e7e7;
     width: 140px;
     height: 170px;
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
 }
 
 .bs9-m i {
@@ -537,7 +537,7 @@
 
 .bs10-a {
     width: 250px;
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     margin-left: 10px;
     display: flex;
     align-items: center;
@@ -545,7 +545,7 @@
 }
 
 .bs10a-i {
-    background: #fbfbfb;
+    background: #efefef;
     padding: 20px 10px;
     text-transform: uppercase;
     font-size: 8px;
@@ -593,9 +593,9 @@
 .bs10b-m {
     width: 125px;
     height: 168px;
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     padding: 15px;
-    background: #fbfbfb;
+    background: #efefef;
     padding-top: 20px;
     margin: 0px 2px;
 }
@@ -627,7 +627,7 @@
 }
 
 .bs-11 {
-    border: 1px solid #9b9b9b;
+    border: 1px solid #c3c3c3;
     display: flex;
     align-items: center;
     margin: 0px 10px;
@@ -638,7 +638,7 @@
     font-size: 9px;
     width: 250px;
     line-height: 12px;
-    border-right: 1px solid #9b9b9b;
+    border-right: 1px solid #c3c3c3;
 }
 
 .bs11-a b {
@@ -657,7 +657,7 @@
     text-transform: uppercase;
     font-size: 10px;
     padding: 30px 40px;
-    border-right: 1px solid #9b9b9b;
+    border-right: 1px solid #c3c3c3;
 }
 
 .bs11-b b {
