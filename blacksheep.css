@@ -268,6 +268,7 @@
 }
 
 .bs-rol-block {
+    display: flex;
     border-top: 1px solid #c3c3c3;
     margin-top: -20px;
     padding: 20px 30px;
@@ -276,11 +277,13 @@
     font-size: 9px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .bs-rol-cont {
     border-top: 1px solid #c3c3c3;
-    background: #d5d5d5;
+    background: #ededed;
     padding: 30px;
     text-align: justify;
 }
@@ -764,6 +767,12 @@
     background: #101010;
     border-color: #2c2c2c;
     color: #fff;
+}
+
+.bs-rol-block img {
+    width: 65px;
+    height: 65px;
+    border: 7px solid #cfcfcf;
 }
 
 .dark .bs9m-inf span {
