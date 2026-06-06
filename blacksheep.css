@@ -949,3 +949,8 @@
 .dark .bs13-b {
     border-color: #2c2c2c;
 }
+
+.dark .bs-rol-cont {
+    background: #0d0d0d;
+    border-color: #2c2c2c;
+}
