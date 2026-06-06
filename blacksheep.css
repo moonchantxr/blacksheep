@@ -866,3 +866,61 @@
 .bs12-d b {
     color: var(--color-two);
 }
+
+.bs-13 {
+    display: flex;
+    align-items: center;
+}
+
+.bs13-a {
+    display: flex;
+    align-items: center;
+    border: 1px solid #c3c3c3;
+    padding: 7px;
+    margin-left: 10px;
+}
+
+.bs13atxt {
+    padding: 10px;
+    height: 130px;
+    text-transform: uppercase;
+    width: 160px;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bs13atxt b {
+    color: var(--color-one);
+    font-size: 14px;
+}
+
+.bs13atxt i {
+    color: var(--color-two) !important;
+    padding-right: 6px;
+}
+
+.bs13-a img {
+    width: 340px;
+    height: 190px;
+}
+
+.bs13-b {
+    border: 1px solid #c3c3c3;
+    padding: 30px 20px;
+    margin-left: 5px;
+    height: 145px;
+    width: 147px;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.bs13-b b {
+    color: var(--color-one);
+    font-size: 14px;
+}
+
+.bs13-b i {
+    color: var(--color-two);
+    font-style: initial;
+    font-weight: 600;
+}
