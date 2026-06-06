@@ -924,3 +924,19 @@
     font-style: initial;
     font-weight: 600;
 }
+
+.dark .bs12-b {
+    border-color: #2c2c2c;
+}
+
+.dark .bs12-a {
+    border-color: #2c2c2c;
+}
+
+.dark .bs12-c {
+    border-color: #2c2c2c;
+}
+
+.dark .bs12-d {
+    border-color: #2c2c2c;
+}
