@@ -417,7 +417,7 @@
 }
 
 .bs8-a {
-    width: 300px;
+    width: 375px;
     height: 140px;
     background: #e2e2e2;
     text-transform: uppercase;
@@ -433,6 +433,9 @@
 
 .bs8-a img {
     border-left: 1px solid #c3c3c3;
+    border-right: 1px solid #c3c3c3;
+    width: 180px;
+    height: 140px;
 }
 
 .bs8-a span {
